@@ -1,0 +1,31 @@
+.bootstrap-colorpalette {
+    padding-left:20px;
+    padding-right:2px;
+    white-space: normal;
+    line-height:3;
+}
+
+.center {
+	padding-left:20px;
+    padding-right:20px;
+    text-align: center;
+    border: 3px solid green;
+	padding: 50px;
+}
+
+
+.bootstrap-colorpalette div {
+    line-height:0;
+}
+
+.bootstrap-colorpalette .btn-color {
+    width: 20px;
+    height: 20px;
+    border: 1px solid #fff;
+    margin: 2px;
+    padding: 2px;
+}
+
+.bootstrap-colorpalette .btn-color:hover {
+    border: 2px solid #000;
+}
